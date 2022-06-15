@@ -3,6 +3,22 @@
     justify-self: center;
     align-self: center;
 }
+.FAQ-title{
+    color:rgba(18, 64, 133, 0.884);
+    font-size:  50px;
+    text-align: center;
+}
+dt{
+    font-family:Helvetica, Arial, sans-serif;
+    color:orange;
+    font-size: 20px;
+    padding: 10px;
+}
+dd{
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgba(18, 64, 133, 0.884);
+
+}
 
 .home-grid{
     font-family: Helvetica, Arial, sans-serif;
