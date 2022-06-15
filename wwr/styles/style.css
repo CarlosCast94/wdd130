@@ -280,6 +280,14 @@ main section img {
 }
 
 @media screen and (max-width: 900px) {
+    #background2{
+        display: none;
+    }
+    .girl, .msg2{
+        width: 80%;
+        display: block;
+        margin: 0 auto;
+    }
     #hero, .home-grid {
         display: block;
         height: auto;
@@ -318,13 +326,5 @@ main section img {
     }
     footer {
         margin-top: 25px;
-    }
-    #background2{
-        display: none;
-    }
-    .girl, .msg2{
-        width: 80%;
-        display: block;
-        margin: 0 auto;
     }
 }
