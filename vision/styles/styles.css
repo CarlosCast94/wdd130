@@ -151,47 +151,65 @@ h2,h3,h4{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 1fr;
-   grid-column-gap: 0px;
+   grid-column-gap: 50px;
    grid-row-gap: 0px;
-   justify-items: center;
-   height: auto;
+   justify-items:center
+  
 }
 #years{
     grid-column: 1/2;
     text-align: center;
     line-height : 30px;
-    padding-top: 100px;
+    padding-top: 210px;
     font-size: 30px;
+    color:#1a1b41;
 }
 h5{
     font-size: 50px;
     color: #48e5c2;
+    margin: 0px;
 }
 
 #clients{
     grid-column: 2/3;
     text-align: center;
     line-height : 30px;
-    padding-top: 40px;
-    font-size: 30px;
-    
+    padding-top: 210px;
+    font-size: 30px;  
+    color:#1a1b41;
 }
 h6{
     font-size: 50px;
     color: #48e5c2;
+    margin: 0px;
 }
 
-}
+
 #cctv-i{
     grid-column: 3/4;
     text-align: center;
     line-height : 30px;
-    margin: 0 auto;
+    padding-top: 200px;
+    font-size: 30px;
+    color:#1a1b41;
+    
 }
+h7{
+    font-size: 50px;
+    color: #48e5c2;
+}
+
 #websites{
     grid-column: 4/5;
     text-align: center;
     line-height : 30px;
+    padding-top: 200px;
+    font-size: 30px;
+    color:#1a1b41;
+}
+h8{
+    font-size: 50px;
+    color: #48e5c2;
 }
 footer{
     background-color:#1a1b41;
