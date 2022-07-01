@@ -154,6 +154,7 @@ h2,h3,h4{
    grid-column-gap: 50px;
    grid-row-gap: 0px;
    justify-items:center
+   
   
 }
 #years{
@@ -163,15 +164,18 @@ h2,h3,h4{
     padding-top: 210px;
     font-size: 30px;
     color:#1a1b41;
+    font-family: Helvetica, Arial, sans-serif;
 }
 h5{
     font-size: 50px;
     color: #48e5c2;
     margin: 0px;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 #clients{
     grid-column: 2/3;
+    font-family: Helvetica, Arial, sans-serif;
     text-align: center;
     line-height : 30px;
     padding-top: 210px;
@@ -182,10 +186,12 @@ h6{
     font-size: 50px;
     color: #48e5c2;
     margin: 0px;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 
 #cctv-i{
+    font-family: Helvetica, Arial, sans-serif;
     grid-column: 3/4;
     text-align: center;
     line-height : 30px;
@@ -197,9 +203,11 @@ h6{
 h7{
     font-size: 50px;
     color: #48e5c2;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 #websites{
+    font-family: Helvetica, Arial, sans-serif;
     grid-column: 4/5;
     text-align: center;
     line-height : 30px;
@@ -210,6 +218,7 @@ h7{
 h8{
     font-size: 50px;
     color: #48e5c2;
+    font-family: Helvetica, Arial, sans-serif;
 }
 footer{
     background-color:#1a1b41;
