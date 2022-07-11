@@ -9,7 +9,7 @@ body{
     margin: 0 auto;
     font-weight: bold;
     font-size: 19px;
-    
+
 }
 nav a{
     font-family: Helvetica, Arial, sans-serif;
@@ -17,11 +17,13 @@ nav a{
     color: white ;
     text-decoration: none;
     padding: 20px;
+    font-weight: bolder;
    
 }
 nav{
     display: flex;
     justify-content: space-around;
+    font-weight: bolder;
 }
 nav a:hover{
     background-color: #48e5c2 ;
